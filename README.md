@@ -1,1 +1,1 @@
-# ChatApp
+# ChatApp with Vue and Firestore
